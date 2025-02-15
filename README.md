@@ -4,7 +4,7 @@ https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro
 
 Overview
 
-This lab provided a practical introduction to building a cloud-based SOC environment, simulating real-world attack scenarios, and using tools like Azure Sentinel and LimaCharlie for threat detection and response.
+This project explores offensive and defensive cybersecurity techniques using LimaCharlie EDR and Sliver C2. It covers adversarial simulations, real-time detection, and automated threat mitigation through custom detection & response (D&R) rules and YARA scanning.
 
 Lab Components
 1. Environment Setup
